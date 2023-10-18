@@ -1,0 +1,15 @@
+# Syntax Coloring Map For MAX_RS485
+
+# Datatypes (KEYWORD1)
+MAX_RS485	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+setModeToReceiver	KEYWORD2
+setModeToTransmitter	KEYWORD2
+begin	KEYWORD2
+getChangeToTransmitterDelay	KEYWORD2
+getChangeToReceiverDelay	KEYWORD2
+setDelays	KEYWORD2
+write	KEYWORD2
+print	KEYWORD2
+println	KEYWORD2
